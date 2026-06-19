@@ -1,0 +1,85 @@
+
+x=10
+y=20
+print(x+y)
+
+x=10;y=20;c=30
+print(x+y+c)
+
+print(x+y*c)
+
+print(x%y*c)
+
+print(x//y)
+
+print(x/y)
+
+print(x%y)
+
+print(x**y)
+
+x=y=c=20
+print(c)
+
+x=2
+x+=3
+print(x)
+x-=6
+print(x)
+
+y=10
+y*=4
+print(y)
+y=20
+y/=10
+print(y)
+
+print(y//=2)
+y%=2
+print(y)
+0.0
+y=4
+y//=2
+print(y)
+
+x=4
+x**=2
+print(x)
+
+x=8
+print(x>=5)
+
+print(x<=10)
+
+print(x!=10)
+
+print(x==12)
+
+print(x>5)
+a=10
+print(a!=10)
+
+a=12;b=23;c=23
+print(a>=2 and b<=6 and c>=7)
+
+print(a>=4 and b!=2)
+
+print(a>=3 or b<=4)
+a='A';b='C'
+print(a>='E' and b=='c')
+print(a!='a')
+print(a<='U' and b>='C')
+
+print(1 and 2)
+
+print(2 and 3 and 4)
+print(2 or 4)
+
+print(1 or 0 or 5)
+
+print(0 or 4 )
+
+print(not False)       
+
+print(not 12)       
+
